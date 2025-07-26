@@ -80,6 +80,10 @@ Power Query for data transformation
 DAX for custom metrics and KPIs
 
 Visuals: bar charts, line graphs, pie charts, cards, slicers
+![My Project Screenshot](bmw1.png)
+![My Project Screenshot](bmw2.png)
+
+
 ---
 # 🔍 Business Recommendations
 * Expand Operations in Mexico Leverage the 25% revenue growth and strong Q2 performance by increasing inventory allocation, dealership support, and localized marketing in the Mexican market.
